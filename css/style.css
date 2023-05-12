@@ -1,0 +1,91 @@
+/* BEGINNING OF HEADING */
+.pic-heading {
+  height: 15px;
+  width: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.small-logo {
+  height: 25px;
+  width: 25px;
+}
+
+.delicious-title {
+  font-family: 'Yellowtail', cursive;
+}
+
+/* END OF HEADING */
+
+.pizza-title {
+  font-family: 'Oswald', sans-serif;
+}
+
+/* OTHER PICTURES BODY */
+
+.printer-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.van-pic {
+  width: 70px;
+  margin-right: 20px;
+}
+
+/* END OTHER PICTURES BODY */
+
+/* VANESSA BIO AND SHARE RECIPE BUTTON */
+
+.van-bio {
+  display: flex;
+}
+
+button {
+  background-color: #BC745C;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-bottom: 5px;
+
+}
+
+
+/* VANESSA BIO AND SHARE RECIPE BUTTON */
+
+
+/* LIST BELOW PARAGRAPH */
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+table {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.8); 
+}
+
+th, td {
+  padding: 8px 12px;
+  text-align: left;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/*  END OF LIST BELOW PARAGRAPH */
+
+
+
+
+
